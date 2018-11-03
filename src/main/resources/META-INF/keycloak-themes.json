@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "infra-workshop",
+        "types": [ "login" ]
+    }]
+}
